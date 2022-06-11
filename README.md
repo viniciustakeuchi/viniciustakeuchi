@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Vini😊
+## Olá!! Eu sou o Vinícius Takeuchi
 
 <div align="center">
   <a href="https://github.com/viniciuskzt01">
