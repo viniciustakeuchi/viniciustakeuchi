@@ -1,5 +1,11 @@
 ## Olá!! Eu sou o Vinícius Takeuchi
 
+<div>
+
+<p>Atualmente estudando Análise e Desenvolvimento de Sistemas na FATEC IPIRANGA, e Desenvolvimento de Sistemas na ETEC.<p/>
+
+</div>
+
 <div align="center">
   <a href="https://github.com/viniciuskzt01">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciuskzt01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
