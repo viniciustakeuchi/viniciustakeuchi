@@ -1,8 +1,6 @@
-## Olá!! Eu sou o Vinícius Takeuchi
-
+## Hi, Devs!!
 <div>
 
-<p>Atualmente estudando Análise e Desenvolvimento de Sistemas na FATEC IPIRANGA, e Desenvolvimento de Sistemas na ETEC.<p/>
 
 </div>
 
