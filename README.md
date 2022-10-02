@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+MY+NAME+is+Vinícius+Takeuchi;I'm+19+years+old;I'm+from+Brazil,+SP;I+study+ADS+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciustakeuchi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Kazuo Takeuchi github stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustakeuchi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciustakeuchi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Kazuo Takeuchi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustakeuchi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=viniciustakeuchi&theme=gotham&hide_border=true&area=true)
