@@ -17,40 +17,37 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/vin%C3%ADcius-takeuchi-45b978230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-takeuchi-45b978230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-32CD32?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
 
 ### Skills:
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)&nbsp; 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/GIT-32CD32?style=for-the-badge&logo=git&logoColor=white)&nbsp; 
+![GitHub](https://img.shields.io/badge/GitHub-32CD32?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-32CD32?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-32CD32?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-32CD32?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-32CD32?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-32CD32?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 
 ### Other Knowledge:
 
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-32CD32?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 
 
   
 ### Studying in this moment:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 ### Education:
 
-![Udemy](https://img.shields.io/badge/Udemy-0D1117?style=for-the-badge&logo=Udemy&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Udemy](https://img.shields.io/badge/Udemy-32CD32?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
