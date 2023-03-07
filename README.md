@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/vin%C3%ADcius-takeuchi-45b978230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-32CD32?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vinicius-takeuchi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-32CD32?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
 
