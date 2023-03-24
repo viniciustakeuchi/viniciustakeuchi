@@ -45,15 +45,9 @@
 
 ![Java](https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-### Education:
 
-![Udemy](https://img.shields.io/badge/Udemy-32CD32?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciustakeuchi}/count.svg" /></p> 
-<br></div>
-  
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
 
