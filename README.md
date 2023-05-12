@@ -17,5 +17,5 @@ My name is Vinícius Takeuchi, I'm 20 years old and study analysis and systems d
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 
-![Snake animation](https://github.com/viniciustakeuchi/viniciustakeuchi/blob/output/github-contribution-grid-snake.svg)
+
   
