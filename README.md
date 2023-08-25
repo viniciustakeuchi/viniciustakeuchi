@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://viniciustakeuchi.com/">
-    <img width="80" height="80" src="https://github.com/viniciustakeuchi/viniciustakeuchi/assets/101226107/bb73962a-e533-4ec0-85e7-ec3c695e5739"
+    <img width="60" height="60" src="https://github.com/viniciustakeuchi/viniciustakeuchi/assets/101226107/bb73962a-e533-4ec0-85e7-ec3c695e5739"
 
   </a>
   <br>
