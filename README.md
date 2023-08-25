@@ -4,8 +4,9 @@
   <br>
   <br>
   <br>
-  <a href="https://wangchujiang.com/">
-    <img width="80" height="80" src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" />
+  <a href="https://viniciustakeuchi.com/">
+    <img width="80" height="80" src="https://github.com/viniciustakeuchi/viniciustakeuchi/assets/101226107/bb73962a-e533-4ec0-85e7-ec3c695e5739"
+
   </a>
   <br>
   <p>
