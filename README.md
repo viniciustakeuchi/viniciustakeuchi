@@ -13,8 +13,6 @@
      <a href="https://www.linkedin.com/in/vinicius-takeuchi/">
         <img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>     
-    <a href="https://twitter.com/viniciuskazuo_">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" />
     </a>
     <a href="mailto:viniciustakeuchi1@gmail.com">
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
