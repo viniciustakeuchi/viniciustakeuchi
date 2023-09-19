@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://viniciustakeuchi.com/">
-    <img width="60" height="60" src="https://github.com/viniciustakeuchi/viniciustakeuchi/assets/101226107/bb73962a-e533-4ec0-85e7-ec3c695e5739"
+    <img width="60" height="60" src="https://github.com/viniciustakeuchi/viniciustakeuchi/assets/101226107/092989e5-b97b-41e2-8670-3499e10ac71b"
 
   </a>
   <br>
@@ -25,7 +25,7 @@
       <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=viniciustakeuchi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
     </a>
   </p>
-  
+
   <p>
     <a href="https://viniciustakeuchi.com/">
       <img src="https://github-profile-trophy.vercel.app/?username=viniciustakeuchi&theme=flat&margin-w=5&row=1&column=3" />
