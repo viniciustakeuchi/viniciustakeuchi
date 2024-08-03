@@ -33,10 +33,9 @@
   </p>
   
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![eclipse](https://img.shields.io/static/v1?logo=eclipse&label=&message=Eclipse&color=36465D&logoColor=AAA&style=flat-square)
-![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=MySQL&color=36465D&logoColor=AAA&style=flat-square)
-![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDBL&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
+![slack](https://img.shields.io/badge/Slack-passing?style=flat&logo=slack&logoColor=black&logoSize=10&labelColor=white&color=white)
+![mongodb](https://img.shields.io/badge/MongoDB-passing?style=flat&logo=mongoDB&logoColor=black&logoSize=10&labelColor=white&color=white)
+![gitlab](https://img.shields.io/badge/GitLab-passing?style=flat&logo=gitlab&logoColor=black&logoSize=10&labelColor=white&color=white)
+![python](https://img.shields.io/badge/Python-passing?style=flat&logo=python&logoColor=black&logoSize=10&labelColor=white&color=white)
 &nbsp;&nbsp;&nbsp;
-
 
