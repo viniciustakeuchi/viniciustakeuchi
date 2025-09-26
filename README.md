@@ -37,3 +37,4 @@
 ![python](https://img.shields.io/badge/Python-passing?style=flat&logo=python&logoColor=black&logoSize=10&labelColor=white&color=white)
 &nbsp;&nbsp;&nbsp;
 
+![Snake animation](https://raw.githubusercontent.com/viniciustakeuchi/viniciustakeuchi/output/github-contribution-grid-snake.svg)
