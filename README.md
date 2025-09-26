@@ -38,5 +38,4 @@
 &nbsp;&nbsp;&nbsp;
 ![Snake animation](https://raw.githubusercontent.com/viniciustakeuchi/viniciustakeuchi/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://raw.githubusercontent.com/viniciustakeuchi/viniciustakeuchi/output/github-contribution-grid-snake.gif)
 
