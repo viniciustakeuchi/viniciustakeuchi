@@ -21,9 +21,7 @@
   </p>
   <p><em>Hi, I'm Vinícius Takeuchi, Back-end developer from São Paulo, Brazil.</em></p>
   <p>
-    <a href="https://wangchujiang.com/">
-      <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=viniciustakeuchi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
-    </a>
+    
   </p>
 
   <p>
