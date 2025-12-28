@@ -22,13 +22,6 @@
   <p><em>Hi, I'm Vinícius Takeuchi, Back-end developer from São Paulo, Brazil.</em></p>
   <p>
     
-  </p>
-
-  <p>
-    <a href="https://viniciustakeuchi.com/">
-      <img src="https://github-profile-trophy.vercel.app/?username=viniciustakeuchi&theme=flat&margin-w=5&row=1&column=3" />
-    </a>
-  </p>
   
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![slack](https://img.shields.io/badge/Slack-passing?style=flat&logo=slack&logoColor=black&logoSize=10&labelColor=white&color=white)
