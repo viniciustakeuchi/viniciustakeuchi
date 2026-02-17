@@ -3,10 +3,11 @@
   <br>
   <br>
   <br>
+
   <br>
   <a href="https://viniciustakeuchi.com/">
-    <img width="60" height="60" src="https://github.com/viniciustakeuchi/viniciustakeuchi/assets/101226107/092989e5-b97b-41e2-8670-3499e10ac71b"
-
+    <img width="60" height="60" src="https://github.com/user-attachments/assets/54690104-2094-46e8-845f-900c91c678ce"
+     
   </a>
   <br>
   <p>
@@ -21,7 +22,8 @@
   </p>
   <p><em>Hi, I'm Vinícius Takeuchi, Back-end developer from São Paulo, Brazil.</em></p>
   <p>
-    
+   
+
   
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![mongodb](https://img.shields.io/badge/MongoDB-passing?style=flat&logo=mongoDB&logoColor=black&logoSize=10&labelColor=white&color=white)
