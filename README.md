@@ -29,6 +29,12 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-passing?style=flat&logo=mongoDB&logoColor=black&logoSize=10&labelColor=white&color=white)
 ![gitlab](https://img.shields.io/badge/GitLab-passing?style=flat&logo=gitlab&logoColor=black&logoSize=10&labelColor=white&color=white)
 ![python](https://img.shields.io/badge/Python-passing?style=flat&logo=python&logoColor=black&logoSize=10&labelColor=white&color=white)
+<br>
+
+![projects](https://img.shields.io/static/v1?label=&message=projects:&color=111&style=flat-square)
+[![api-carteira-renda-fixa](https://img.shields.io/badge/API_Carteira_Renda_Fixa-passing?style=flat&logo=fastapi&logoColor=black&logoSize=10&labelColor=white&color=white)](https://github.com/viniciustakeuchi/api-carteira-renda-fixa)
+[![coletor-taxas-indicadores](https://img.shields.io/badge/Coletor_de_Taxas-passing?style=flat&logo=postgresql&logoColor=black&logoSize=10&labelColor=white&color=white)](https://github.com/viniciustakeuchi/coletor-taxas-indicadores)
+[![pipeline-etl-serverless-aws](https://img.shields.io/badge/Pipeline_ETL_AWS-passing?style=flat&logo=terraform&logoColor=black&logoSize=10&labelColor=white&color=white)](https://github.com/viniciustakeuchi/pipeline-etl-serverless-aws)
 &nbsp;&nbsp;&nbsp;
 ![Snake animation](https://raw.githubusercontent.com/viniciustakeuchi/viniciustakeuchi/output/github-contribution-grid-snake.svg)
 
